@@ -1,4 +1,4 @@
-![image](https://github.com/ammahmoudi/IntroductionToBioinformatics/assets/95019899/06256053-053f-4006-b4a7-fc0caaddab51)# IntroductionToBioinformatics
+# IntroductionToBioinformatics
 Homework Solutions for Introduction To Bioinformatics Course as Computer Science B.Sc. Student at Department of Computer Engineering, Sharif University of Technology
 
 Fall 2022
