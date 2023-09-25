@@ -12,6 +12,7 @@ There are some problems from Rosalind implemented in python and java.also a smal
 
 ## Table of Rosalind Problems
 24 Rosalind problems listed below are implementend as homeworks.
+
 | Num | Title                                                                                                         |
 | --- | ------------------------------------------------------------------------------------------------------------- |
 | 1   | [Computing GC Content](https://rosalind.info/problems/gc/?class=948)                                          |
