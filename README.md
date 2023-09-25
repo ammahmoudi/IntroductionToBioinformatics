@@ -7,11 +7,11 @@ Supervisors: [Dr. Ali Sharifi Zarchi](https://scholar.google.com/citations?user=
 
 
 ## Description
-This repostiry includes my homeworks and projects around Numerical Bioinformatics.
-There are some problems from Rosalind implemented in python and java.also a small project about dimension reduction and AML is included.
+This repository includes my homework and projects around Numerical Bioinformatics.
+There are some problems from Rosalind implemented in Python and Java. Also, a small project about dimension reduction and AML is included.
 
-## Table of Rosalind Problems
-24 Rosalind problems listed below are implementend as homeworks.
+## Table of Rosalind's Problems
+24 Rosalind problems listed below are implemented as homework.
 
 | Num | Title                                                                                                         |
 | --- | ------------------------------------------------------------------------------------------------------------- |
@@ -31,7 +31,7 @@ There are some problems from Rosalind implemented in python and java.also a smal
 | 14  | [Compute Limb Lengths in a Tree](https://rosalind.info/problems/ba7b/?class=948)                              |
 | 15  | [Implement AdditivePhylogeny](https://rosalind.info/problems/ba7c/?class=948)                                 |
 | 16  | [Implement UPGMA](https://rosalind.info/problems/ba7d/?class=948)                                             |
-| 17  | [Implement the Neighbor Joining Algorithm](https://rosalind.info/problems/ba7e/?class=948)                    |
+| 17  | [Implement the Neighbor-Joining Algorithm](https://rosalind.info/problems/ba7e/?class=948)                    |
 | 18  | [Implement SmallParsimony](https://rosalind.info/problems/ba7f/?class=948)                                    |
 | 19  | [Constructing a De Bruijn Graph](https://rosalind.info/problems/dbru/?class=948)                              |
 | 20  | [Genome Assembly Using Reads](https://rosalind.info/problems/gasm/?class=948)                                 |
